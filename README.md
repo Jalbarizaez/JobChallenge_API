@@ -1,5 +1,8 @@
 # PackageApi
 
+## Install Node Modules
+
+Run `npm install`for install all the dependencies
 
 ## Development server
 
